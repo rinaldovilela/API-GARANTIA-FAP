@@ -1,0 +1,1 @@
+Descrição: Armazena funções middleware que interceptam e manipulam as requisições e respostas. Inclui funcionalidades como autenticação e tratamento de erros.

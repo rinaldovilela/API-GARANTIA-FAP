@@ -1,0 +1,1 @@
+Descrição: Contém definições de interfaces e tipos TypeScript que são usados para garantir a consistência dos dados em toda a aplicação. Ajuda a definir contratos de dados e estruturas de objetos.

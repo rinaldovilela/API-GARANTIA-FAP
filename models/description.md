@@ -1,0 +1,1 @@
+Descrição: Contém os modelos que definem a estrutura dos dados e interagem com o banco de dados. Representam entidades como usuários, produtos, etc.

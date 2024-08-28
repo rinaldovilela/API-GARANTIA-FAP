@@ -1,0 +1,1 @@
+Descrição: Contém arquivos de configuração do projeto que podem variar conforme o ambiente (desenvolvimento, produção, etc.). Normalmente, inclui arquivos JSON com configurações específicas.

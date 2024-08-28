@@ -1,0 +1,1 @@
+Descrição: Contém a lógica de negócios que é usada pelos controladores. Encapsula operações complexas e interage com os modelos e outras partes do sistema.

@@ -1,0 +1,1 @@
+Descrição: Define as rotas da aplicação e associa cada rota a um controlador específico. Determina como as requisições são roteadas para os controladores.

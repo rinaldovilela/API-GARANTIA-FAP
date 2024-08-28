@@ -1,0 +1,50 @@
+# Dependências do Node.js
+node_modules/
+
+# Compilados do TypeScript
+dist/
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos e diretórios de configuração de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de ambiente
+.env
+
+# Diretórios de testes temporários
+coverage/
+*.lcov
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+*.tgz
+*.gz
+*.zip
+
+# Backup e arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Arquivos gerados por ferramentas de CI/CD
+*.pid
+*.seed
+
+# Ignorar a pasta de build gerada pelo TypeScript (caso esteja usando)
+*.tsbuildinfo
+
+# Configurações de npm
+package-lock.json
+
+
+

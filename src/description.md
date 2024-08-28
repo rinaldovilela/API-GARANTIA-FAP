@@ -1,0 +1,1 @@
+Descrição: Contém os arquivos principais da aplicação escrita em TypeScript, incluindo o ponto de entrada do aplicativo (index.ts) e outros arquivos necessários.
